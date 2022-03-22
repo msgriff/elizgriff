@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elizgriff
 - 👀 I’m interested in all the things
-- 🌱 I’m currently learning a bit of everything
+- 🌱 I’m currently learning how to use github, javascript, python 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me : s3931870@student.rmit.edu.au
 
