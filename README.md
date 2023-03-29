@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @elizgriff
-- 👀 I’m interested in all of the things
+- 👋 Hi, I’m @msgriff
 - 🌱 I’m currently learning how to use github, java, javascript, python, C#
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me : ellemgriff@gmail.com
